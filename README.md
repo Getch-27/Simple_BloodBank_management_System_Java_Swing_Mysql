@@ -10,7 +10,7 @@ This is a blood bank system project developed using Java Swing and MySQL. The sy
 - Generate reports
 
 ## Requirements
-
-- Java Development Kit (JDK) 1.8 or later
+- netbeans 
+- Java Development Kit (JDK) 8 or later
 - MySQL database server
 - MySQL Connector/J driver
